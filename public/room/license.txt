@@ -1,0 +1,11 @@
+Model Information:
+* title:	FLAT 9
+* source:	https://sketchfab.com/3d-models/flat-9-27e01a1e9774468db60f8145c6a36473
+* author:	besturkan (https://sketchfab.com/besturkan)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FLAT 9" (https://sketchfab.com/3d-models/flat-9-27e01a1e9774468db60f8145c6a36473) by besturkan (https://sketchfab.com/besturkan) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
